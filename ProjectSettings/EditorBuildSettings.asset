@@ -11,8 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneTwo.unity
     guid: 539a7070b5fe68f4f8fbbeeb087a40cd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SceneThree.unity
     guid: 684c5a3bc5a637645b6fb23655619bcc
+  - enabled: 1
+    path: Assets/Scenes/CasinoOpen.unity
+    guid: 9031c6965d28546cf9a88b426391467c
+  - enabled: 1
+    path: Assets/Scenes/CasinoClosed.unity
+    guid: 6839d5f62d29e4072ae32984f1bbed50
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
